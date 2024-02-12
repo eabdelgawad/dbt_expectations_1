@@ -1,0 +1,3 @@
+packages:
+  - git: "https://github.com/eabdelgawad/dbt_date.git"
+    revision: v0.10.0s
